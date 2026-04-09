@@ -1,73 +1,112 @@
-# Hi 👋 I'm Aswin Philip Raju
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Tech+Explorer)
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-🎓 BTech Computer Science Student (KTU)  
-💻 Full Stack Developer | AI Enthusiast  
-🚀 Building impactful projects like JOB.CONNECT  
-⚡ Passionate about solving real-world problems  
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Aswin Philip Raju</strong>
+</h1>
 
----
+<h3>Full Stack Developer | MERN • Python • C • AI Enthusiast • Problem Solver </h3>
 
-## 🚀 About Me
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-- 🎯 Goal: Become a successful software engineer & work abroad  
-- 🧠 Strong in: Problem solving, creativity & execution  
-- ⏳ I believe in consistency and never quitting  
-- 🎤 Public speaker & active in tech communities  
+<p>
+  I'm a Full Stack Developer who loves turning ideas into powerful digital solutions.  
+  I specialize in building modern, scalable web applications with clean UI and efficient backend systems.  
+  With a strong interest in AI and problem-solving, I aim to create products that are not just functional, but meaningful and impactful.
+</p>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
 
-## 🛠️ Tech Stack
+<h3>🌐 Socials</h3>
+  
+<p align="left">
 
-- 💻 Languages: C, C++, Python, JavaScript  
-- 🌐 Web: HTML, CSS, React, Node.js  
-- 🗄️ Database: MongoDB, MySQL  
-- ⚙️ Tools: Git, GitHub, VS Code  
+  <a href="https://discord.com/users/aswinphilip9826">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
 
----
+  <a href="https://github.com/aswin454">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
 
-## 🚀 Projects
+  <a href="https://www.instagram.com/aswin.philip_?igsh=MWI4Mnp5ODM1bjI2cA==">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
 
-### 🔹 JOB.CONNECT
-A platform for students to find:
-- Part-time jobs  
-- Internships  
-- Full-time opportunities  
+  <a href="www.linkedin.com/in/aswin-philip-raju-4433bb287">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
 
-💡 Features:
-- Job listings  
-- Student profiles  
-- Employer dashboard  
+  </a>
+</p>
 
----
 
-## 🏆 Achievements & Roles
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
 
-- 🎤 TEDx Volunteer Coordinator  
-- 🤖 Core AI Co-Lead  
-- 📢 Strong in presentations & public speaking  
+<br clear="all" />
 
-----
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+</td>
+
+
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+</td>
+</tr>
+</table>
+</p>
+
+
+
+
+
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aswin454&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin454&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![Streak](https://streak-stats.demolab.com/?user=aswin454&theme=tokyonight)
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## ❤️ Support Me
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (aswinphilipraju@gmail.com)
-
----
-
-⭐ “Consistency + Hard Work = Success”
+<p align="center">
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
